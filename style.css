@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+nav a {
+  background-color: azure;
+  padding: 10px;
+  text-align: center;
+}
+img {
+  display: block;
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+  #featured-property {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+  }
+#details div{
+  float: left;
+  background-color: azure;
+  text-align: center;
+  border-bottom-width: 25%;
+}
